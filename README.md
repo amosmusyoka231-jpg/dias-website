@@ -1,1 +1,1 @@
-# dias-website
+# digital institute of advanced studies
